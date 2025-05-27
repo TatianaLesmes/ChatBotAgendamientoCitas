@@ -9,5 +9,7 @@ npm install -g ngrok: ngrok es una herramienta que crea un túnel seguro desde i
 Se debe crear un .env con lo siguiente: 
 
 DB_URI=
+
 ULTRAMSG_INSTANCE_ID=
+
 ULTRAMSG_TOKEN=
